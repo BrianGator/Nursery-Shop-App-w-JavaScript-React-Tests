@@ -1,4 +1,4 @@
-# Paradise Nursery
+# Paradise Nursery Shop App w JavaScript React
 
 A premium houseplant shopping application built with React and Redux.
 
