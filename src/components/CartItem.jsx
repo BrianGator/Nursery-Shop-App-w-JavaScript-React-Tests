@@ -44,7 +44,7 @@ const CartItem = ({ onContinueShopping }) => {
   };
 
   const handleCheckoutShopping = (e) => {
-    alert('Functionality Coming Soon');
+    alert('Coming Soon');
   };
 
   const totalItemsCount = cartItems.reduce((total, item) => total + item.quantity, 0);

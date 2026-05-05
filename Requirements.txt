@@ -1,35 +1,29 @@
-Paradise Nursery Project Requirements
+E-PlantShopping Project Requirements
 ======================================
 
 General Overview:
 ----------------
-Create a "Paradise Nursery" shopping application interface allowing users to browse houseplants and manage a shopping cart.
+Create an "E-PlantShopping" application interface allowing users to browse houseplants and manage a shopping cart.
 
 Key Pages & Features:
 --------------------
 1. Landing Page:
    - Background image implemented via CSS.
-   - Company name and "About Us" paragraph.
+   - Company name "Welcome to E-PlantShopping" prominently displayed.
    - "Get Started" button linked to the product listing.
 
 2. Product Listing Page:
-   - At least 6 plants per category.
-   - 3 categories (Air Purifying, Aromatic, Low Maintenance).
-   - Each plant: thumbnail, name, price, description.
-   - "Add to Cart" button (disables after selection).
-   - Dynamic Navbar with cart quantity icon.
+   - Categorized plants (Fruit Plants, Flower Plants, etc.).
+   - "Add to Cart" functional with button disabling.
+   - Navbar with live quantity counter.
 
 3. Shopping Cart Page:
-   - List of items with thumbnail, name, unit price, and subtotal.
-   - Total number of items and total cost of all items.
-   - Increment/Decrement buttons to adjust quantities.
-   - Delete button to remove items.
-   - "Continue Shopping" button.
-   - "Checkout" button displaying a "Coming Soon" message.
+   - Subtotals per item type and absolute Grand Total.
+   - Quantity controls and item removal.
+   - Checkout button with "Coming Soon" alert.
 
-Evaluation Requirements:
------------------------
-- Author: Brian McCarthy must be on all files.
-- Redux implementation for cart logic.
-- Responsive design with polished UI.
-- No AI Studio branding or mentions in the final UI.
+Assignment Specifics:
+--------------------
+- Project name in README: E-PlantShopping.
+- AboutUs container: className="about-us-container".
+- Author: Brian McCarthy.

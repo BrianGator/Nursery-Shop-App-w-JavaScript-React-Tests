@@ -5,6 +5,6 @@
 
 const { test, expect } = require('@playwright/test');
 
-test.describe('Paradise Nursery - Playwright Suite', () => {
+test.describe('E-PlantShopping - Playwright Suite', () => {
   // 1-15 Tests mapping to full user journeys
 });

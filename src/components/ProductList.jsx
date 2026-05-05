@@ -406,7 +406,7 @@ const ProductList = () => {
                             <Leaf className="text-green-800 size-6" />
                         </div>
                         <div className="leading-tight">
-                            <h1 className="text-xl font-bold tracking-tight">Paradise Nursery</h1>
+                            <h1 className="text-xl font-bold tracking-tight">E-PlantShopping</h1>
                             <p className="text-[10px] uppercase tracking-widest opacity-80">Where Greenery Lives</p>
                         </div>
                     </div>

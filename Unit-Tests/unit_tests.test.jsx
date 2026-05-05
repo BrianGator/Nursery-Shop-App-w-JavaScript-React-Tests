@@ -1,5 +1,5 @@
 /**
- * Unit Test Suite for Paradise Nursery
+ * Unit Test Suite for E-PlantShopping
  * Author: Brian McCarthy
  * Framework: Vitest / Jest
  */
@@ -15,13 +15,13 @@ const mockStore = configureStore([]);
 describe('Unit Tests - Components', () => {
   test('1. AboutUs component renders correctly', () => {
     render(<AboutUs />);
-    expect(screen.getByText(/Welcome to Paradise Nursery/i)).toBeInTheDocument();
+    expect(screen.getByText(/Welcome to E-PlantShopping/i)).toBeInTheDocument();
   });
 
   test('2. LandingPage renders the branding header', () => {
     const store = mockStore({});
     render(<Provider store={store}><LandingPage /></Provider>);
-    expect(screen.getByText(/Paradise Nursery/i)).toBeInTheDocument();
+    expect(screen.getByText(/E-PlantShopping/i)).toBeInTheDocument();
   });
 
   test('3. LandingPage displays the Get Started button', () => {

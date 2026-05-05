@@ -1,4 +1,4 @@
-# Paradise Nursery
+# E-PlantShopping
 
 A premium houseplant shopping application built with React and Redux.
 

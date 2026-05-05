@@ -1,5 +1,5 @@
 /**
- * Integration Test Suite for Paradise Nursery
+ * Integration Test Suite for E-PlantShopping
  * Author: Brian McCarthy
  * Focus: Redux + Component Interaction
  */

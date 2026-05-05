@@ -22,7 +22,7 @@ const LandingPage = ({ onGetStarted }) => {
                     <Leaf className="text-green-800 size-8" />
                 </div>
                 <div>
-                  <h1 className="text-3xl font-black text-white tracking-tight drop-shadow-md">Paradise Nursery</h1>
+                  <h1 className="text-3xl font-black text-white tracking-tight drop-shadow-md">E-PlantShopping</h1>
                   <p className="text-xs uppercase tracking-[0.4em] text-green-300 font-bold drop-shadow-md">Pure Nature, Delivered</p>
                 </div>
             </div>
@@ -35,7 +35,7 @@ const LandingPage = ({ onGetStarted }) => {
                 Established 2026
              </div>
              <h2 className="text-4xl md:text-6xl font-black text-white mb-6 leading-tight drop-shadow-lg">
-                Your Personal Eden <br/> <span className="text-green-400">Awaits</span>
+                Welcome to <br/> E-PlantShopping
              </h2>
              <hr className="w-24 border-2 border-green-500 mx-auto mb-8 rounded-full" />
              
@@ -55,7 +55,7 @@ const LandingPage = ({ onGetStarted }) => {
         </main>
 
         <footer className="p-8 text-white/60 text-sm font-medium text-center">
-            &copy; 2026 Paradise Nursery. Crafted with love by Brian McCarthy.
+            &copy; 2026 E-PlantShopping. Crafted with love by Brian McCarthy.
         </footer>
       </div>
     </div>

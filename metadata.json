@@ -1,6 +1,6 @@
 {
-  "name": "Nursery-Shop-App-w-JavaScript-React",
-  "description": "A lush shopping experience for houseplants with a dynamic cart and categorized plant listing.",
+  "name": "E-PlantShopping",
+  "description": "A premium houseplant shopping application (E-PlantShopping) built with React and Redux.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
