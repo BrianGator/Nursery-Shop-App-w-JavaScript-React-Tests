@@ -268,37 +268,37 @@ const ProductList = () => {
             plants: [
                 {
                     name: "Snake Plant",
-                    image: "https://cdn.pixabay.com/photo/2021/01/22/06/04/snake-plant-5939187_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1593482815041-945763bf4532?q=80&w=2070&auto=format&fit=crop",
                     description: "Produces oxygen at night, improving air quality.",
                     cost: "$15"
                 },
                 {
                     name: "Spider Plant",
-                    image: "https://cdn.pixabay.com/photo/2018/07/11/06/47/chlorophytum-3530413_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1599388301742-1264016f1947?q=80&w=2070&auto=format&fit=crop",
                     description: "Filters formaldehyde and xylene from the air.",
                     cost: "$12"
                 },
                 {
                     name: "Peace Lily",
-                    image: "https://cdn.pixabay.com/photo/2019/06/12/14/14/peace-lilies-4269365_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1628540114002-3f82020228ee?q=80&w=2070&auto=format&fit=crop",
                     description: "Removes mold spores and toxins like ammonia.",
                     cost: "$18"
                 },
                 {
                     name: "Boston Fern",
-                    image: "https://cdn.pixabay.com/photo/2020/04/30/19/52/fern-5114414_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1610473215233-1456a0584eb2?q=80&w=2070&auto=format&fit=crop",
                     description: "Adds moisture to the air and removes pollutants.",
                     cost: "$22"
                 },
                 {
                     name: "Rubber Plant",
-                    image: "https://cdn.pixabay.com/photo/2020/02/15/11/49/flower-4850729_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1598592232491-d64821a8cd66?q=80&w=2070&auto=format&fit=crop",
                     description: "Easy to care for and great for air purification.",
                     cost: "$25"
                 },
                 {
                     name: "Aloe Vera",
-                    image: "https://cdn.pixabay.com/photo/2018/04/02/07/42/aloe-3283038_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1512428813834-c702c7702b78?q=80&w=2070&auto=format&fit=crop",
                     description: "Purifies air and has medicinal properties.",
                     cost: "$14"
                 }
@@ -321,25 +321,25 @@ const ProductList = () => {
                 },
                 {
                     name: "Rosemary",
-                    image: "https://cdn.pixabay.com/photo/2019/10/11/07/12/rosemary-4541241_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1594313106629-9e8d30e37893?q=80&w=2070&auto=format&fit=crop",
                     description: "Invigorating scent, often used in cooking.",
                     cost: "$15"
                 },
                 {
                     name: "Mint",
-                    image: "https://cdn.pixabay.com/photo/2016/01/07/18/20/mint-1126282_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1603513360408-da2322cd5f0f?q=80&w=2070&auto=format&fit=crop",
                     description: "Refreshing aroma and versatile in use.",
                     cost: "$10"
                 },
                 {
                     name: "Lemon Balm",
-                    image: "https://cdn.pixabay.com/photo/2019/09/16/07/41/balm-4480134_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1629814424859-994df2292f7e?q=80&w=2070&auto=format&fit=crop",
                     description: "Citrusy scent with calming properties.",
                     cost: "$12"
                 },
                 {
                     name: "Hyacinth",
-                    image: "https://cdn.pixabay.com/photo/2019/04/07/20/20/hyacinth-4110726_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1558231086-49033327d757?q=80&w=2070&auto=format&fit=crop",
                     description: "Beautiful flowers with a strong, pleasant fragrance.",
                     cost: "$18"
                 }
@@ -356,31 +356,31 @@ const ProductList = () => {
                 },
                 {
                     name: "Pothos",
-                    image: "https://cdn.pixabay.com/photo/2018/11/15/10/32/plants-3816945_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1632734041793-183047a0628e?q=80&w=2070&auto=format&fit=crop",
                     description: "Resilient vine that handles various conditions.",
                     cost: "$15"
                 },
                 {
                     name: "Cast Iron Plant",
-                    image: "https://cdn.pixabay.com/photo/2017/02/16/15/47/aspidistra-2071741_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?q=80&w=1964&auto=format&fit=crop",
                     description: "Hardy plant that tolerates neglect and low light.",
                     cost: "$28"
                 },
                 {
                     name: "Succulent Garden",
-                    image: "https://cdn.pixabay.com/photo/2016/11/21/16/05/cacti-1846147_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?q=80&w=2018&auto=format&fit=crop",
                     description: "A mix of slow-growing, drought-tolerant plants.",
                     cost: "$22"
                 },
                 {
                     name: "Jade Plant",
-                    image: "https://cdn.pixabay.com/photo/2016/07/30/14/06/jade-plant-1557199_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1609142621730-db3293839541?q=80&w=2070&auto=format&fit=crop",
                     description: "Long-lived succulent with unique tree-like form.",
                     cost: "$18"
                 },
                 {
                     name: "Chinese Evergreen",
-                    image: "https://cdn.pixabay.com/photo/2014/10/10/04/27/aglaonema-482915_1280.jpg",
+                    image: "https://images.unsplash.com/photo-1636208571833-9111c1d89776?q=80&w=2071&auto=format&fit=crop",
                     description: "Colorful foliage that adapts well to indoor life.",
                     cost: "$20"
                 }
