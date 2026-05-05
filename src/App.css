@@ -1,0 +1,18 @@
+/* 
+   Author: Brian McCarthy
+*/
+
+.landing-page {
+    background-image: url('https://images.unsplash.com/photo-1466781783364-098a62827a9d?q=80&w=2071&auto=format&fit=crop');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.glass-morphism {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}

@@ -1,0 +1,32 @@
+Developer Summary: Paradise Nursery Application
+Author: Brian McCarthy
+Date: May 2026
+
+Technologies Used:
+- React 19: The core library for building the user interface.
+- Redux Toolkit: Used for state management, specifically for the shopping cart core logic (adding, removing, and updating quantities).
+- React-Redux: For connecting React components to the Redux store.
+- Tailwind CSS: For styling and responsive design.
+- Lucide React: For consistent and beautiful iconography.
+- Vite: The build tool and development server.
+
+Programming Concepts:
+- Component-Based Architecture: The app is divided into reusable UI components like AboutUs, CartItem, ProductList, etc.
+- Functional Components & Hooks: Utilizing useState and useEffect for local state and side effects.
+- State Management: Centralized store using Redux to ensure cart consistency across different views.
+- Conditional Rendering: Dynamically switching between the Landing, Product Listing, and Cart views.
+- Array Methods: extensively using map, filter, and reduce to manage and display plant data and calculate totals.
+
+File Breakdown:
+- App.tsx: The main entry point that manages the primary navigation state between the landing page and the shop.
+- main.tsx: Boots the application and wraps it in the Redux Provider.
+- App.css: Contains custom styles including the landing page background image.
+- store.js: Configures the Global Redux store.
+- CartSlice.jsx: Contains the 'slice' of state for the shopping cart, including reducers for adding/removing items and updating quantities.
+- components/LandingPage.jsx: Welcomes users with an immersive hero section.
+- components/ProductList.jsx: Displays the catalog of plants grouped into categories.
+- components/CartItem.jsx: The detailed shopping cart view with cost calculations and quantity controls.
+- components/AboutUs.jsx: Shared component explaining the nursery's mission.
+
+Application Functionality:
+The Paradise Nursery app is a holistic e-commerce experience for plant lovers. It features a lush landing page, a categorized product listing with a real-time updating cart icon, and a detailed checkout simulation. Users can browse unique categories (Air Purifying, Aromatic, Low Maintenance), manage their select plants in a refined cart interface, and see instant total updates.
